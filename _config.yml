@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-palette: blue
+palette: purple
 header:
   logo_img: images/logo.png
   has_nav: true
